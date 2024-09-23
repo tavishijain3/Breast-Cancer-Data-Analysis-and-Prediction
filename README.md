@@ -8,7 +8,6 @@ This project focuses on the exploratory data analysis (EDA) of a breast cancer d
 - [Technologies Used](#technologies-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Preprocessing](#data-preprocessing)
-- [Model Development](#model-development)
 - [Visualizations](#visualizations)
 - [Conclusion](#conclusion)
 
